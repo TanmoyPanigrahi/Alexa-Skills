@@ -1,8 +1,3 @@
-/**
- * This sample demonstrates a simple skill built with the Amazon Alexa Skills
- * nodejs skill development kit.
- **/
-
 const Alexa = require('alexa-sdk');
 
 const FACTS = [
